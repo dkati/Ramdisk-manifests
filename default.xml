@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="github"
+           fetch="https://github.com/" />
+	   
+  <default revision="refs/heads/cm-13.0"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+	   
+   <project path="Ramdisk" name="dkati/Ramdisk" revision="cm-13.0" />
+</manifest>
