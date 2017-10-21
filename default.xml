@@ -4,10 +4,10 @@
   <remote name="github"
            fetch="https://github.com/" />
 	   
-  <default revision="refs/heads/cm-14.1"
+  <default revision="refs/heads/cm-15.0"
            remote="github"
            sync-c="true"
            sync-j="4" />
 	   
-   <project path="Ramdisk" name="dkati/Ramdisk" revision="cm-14.1" />
+   <project path="Ramdisk" name="dkati/Ramdisk" revision="cm-15.0" />
 </manifest>
