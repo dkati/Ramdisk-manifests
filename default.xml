@@ -9,5 +9,5 @@
            sync-c="true"
            sync-j="4" />
 	   
-   <project path="Ramdisk" name="dkati/Ramdisk" revision="cm-15.0" />
+   <project path="Ramdisk" name="dkati/Ramdisk" revision="cm-15.1" />
 </manifest>
